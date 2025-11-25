@@ -1,0 +1,8 @@
+google-api-python-client
+google-generativeai
+streamlit
+python-dotenv
+protobuf
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
